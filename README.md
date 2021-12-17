@@ -39,11 +39,11 @@ https://www.tcmb.gov.tr/kurlar/today.xml Yukarıdaki link bulunduğumuz günün 
 
 Bu sınıf index,code,unit,currency,forex Buying,forexSelling,banknote Buying,Banknote Selling bilgilerini ve Infos nesnesinin yapısını ve getter setter yöntemlerini içerir.
 
-2. sınıf: ana
+2. sınıf: Main
 
 Bu sınıfta 5 tane metodumuz var.
 
-1. Ana
+1. Main
 
 2.getAllCurrencies() -> Linkteki bilgiyi alır ve nesne olarak bir dizi listesine aktarır.
 
